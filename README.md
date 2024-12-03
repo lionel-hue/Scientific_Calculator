@@ -10,4 +10,4 @@
 <p align='center'>
   <img src='https://i.ibb.co/25n2PRD/Screenshot-from-2024-12-03-18-54-59.png' />
 </p>
-<p>This sectio of the applications works on even numbers generation...explore what the calculator can do!</p>
+<p>This section of the applications works on even numbers generation...explore what the calculator can do!</p>
